@@ -2,9 +2,9 @@
 
 Technical product leader working on model customization, post-training, and inference.
 
-I lead an open-model inference platform at [Boundless](https://boundless.network). Before that I took its distributed compute marketplace from concept to market (150+ providers, 10,000+ GPUs at peak, 1.9M jobs). Earlier: product at Ava Labs and systems engineering at Raytheon; M.Eng. from Cornell Tech.
+I lead an open-model inference platform at [Boundless](https://boundless.network). Before that I took its distributed compute marketplace from concept to market (150+ providers, 10,000+ GPUs at peak, 1.9M jobs). Earlier: product at Ava Labs and systems engineering at Raytheon. I studied mechanical engineering as an undergraduate at Oklahoma State, then did my master's at Cornell Tech focused on machine learning.
 
-I also train and evaluate open models myself, and I judge them by whether complete tasks get better, not by training loss.
+I also train and evaluate open models on multi-step, tool-using tasks. I'm especially interested in coordinating agent swarms and in AI for cybersecurity.
 
 ## Selected work
 
